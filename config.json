@@ -1,0 +1,11 @@
+{
+  "name": "Essential Go",
+  "author": "@letterj",
+  "pages": 45,
+  "sample": true,
+  "seller": [
+            {"name": "Barnes and Noble", "format": ["hardback", "ebook", "video"]},
+            {"name": "Amazon", "format": ["hardback", "pdf", "kindle", "mobi", "video"]}
+           ],
+  "tags": ["go", "screencast", "learning"]
+}
